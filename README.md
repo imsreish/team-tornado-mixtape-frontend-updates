@@ -1,9 +1,6 @@
-# [Mixtape](https://startling-florentine-c12e5b.netlify.app/)
+# Mixtape-Updates
 
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/710bbd68-bc16-4c40-9a46-6549d265f69a/deploy-status)](https://app.netlify.com/sites/startling-florentine-c12e5b/deploys)
-
-
+## This is a *forked* version of the original repo, used for bug fixing and feature adding. Please go [here](https://github.com/team-tornado-mixtape/team-tornado-mixtape-frontend) if you are looking for the production version of our app.
 
 ![Mixtape Logo](/mixtape/src/images/markdown/MixBanner.png)
 
@@ -35,9 +32,6 @@
         
 
 # Installation
-
-
-[You can check out the latest production version of our site on Netlify.](https://startling-florentine-c12e5b.netlify.app/)
 
 
 #### Use this guide if you'd like to run this app locally.
